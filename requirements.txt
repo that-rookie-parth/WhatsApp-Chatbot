@@ -1,0 +1,14 @@
+openai
+langchain
+streamlit
+pinecone-client
+python-dotenv
+pypdf
+sentence_transformers
+streamlit_extras
+streamlit_chat
+tiktoken
+
+# for WhatsApp
+Flask
+twilio
